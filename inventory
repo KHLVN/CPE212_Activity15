@@ -1,0 +1,9 @@
+[cinder]
+server1
+
+[neutron]
+server1
+
+[horizon]
+server1
+
